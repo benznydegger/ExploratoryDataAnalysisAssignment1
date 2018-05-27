@@ -10,7 +10,7 @@
 ## Output Data: plot2.png
 
 # Set Local Woking Dir
-setwd("C:/Users/GuyManuelBendichtNyd/Desktop/DataScience/JohnHoppkins/4.Exploratory Data Analysis/Week1/Assignement")
+#setwd("C:/...Data/household_power_consumption.txt")
 
 # Read training & test data
 electricpowerconsumption <- read.table("Data/household_power_consumption.txt",sep=";", header=T)
